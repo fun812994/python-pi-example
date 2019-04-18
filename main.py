@@ -3,11 +3,13 @@
 
 
 def main (msg);
-<<<<<<< HEAD
-	//adding a different comment here
-=======
-    //printf a message
->>>>>>> refs/remotes/origin/master
-    printf (msg)
+
+	//no longer neds comments
+
+    print (msg)
+
+
+def secondary();
+print("New function")
 
 main("hello world")
